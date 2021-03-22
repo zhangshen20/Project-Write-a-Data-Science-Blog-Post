@@ -17,7 +17,6 @@ This is the starting point of becoming a data scientist. It's interesting to lea
 The project aims to predict renting prices of properties listed on Airbnb in Seattle WA. 
 
 ### File Description
-- 'Data' folder contains 3 csv files - 'listings.csv', 'calendar.csv', and 'reviews.csv'
 - Jupyter notebook 'Project_NoteBook.ipynb' includes the questiones identified from the data in 'Data' folder and the approaches to 
   - analyse data
   - identify impacting aspects, and 
@@ -30,3 +29,5 @@ The main findings of the code can be found at the post available here.
 ### Licensing, Authors, Acknowledgements
 
 Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at udacity.com. Otherwise, feel free to use the code here as you would like!
+
+The data files are provided by Airbnb via https://www.kaggle.com/airbnb/seattle/data
