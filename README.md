@@ -1,1 +1,32 @@
 # Project-Write-a-Data-Science-Blog-Post
+## Airbnb - Seattle WA. Pricing Model
+
+This project aims to write a Data Science Blog. I used the datasets from Udacity online course. The dataset provides Airbnb's listings information in Seattle.
+
+### Quick start
+- Download the latest release
+- Clone the repo: git clone https://github.com/zhangshen20/Project-Write-a-Data-Science-Blog-Post.git
+- Install 'Anaconda3' via https://www.anaconda.com/products/individual
+- After installation, open 'Anaconda.Navigator'
+- Then, launch 'jupyter notebook'. Once launched, go to a web browser and enter address http://localhost:8888/
+- In jupyter, open the downloaded file 'Project_NoteBook.ipynb'
+
+### Project Motivation
+This is the starting point of becoming a data scientist. It's interesting to learn how begin as a data scientist. The material is provided by udacity.
+
+The project aims to predict renting prices of properties listed on Airbnb in Seattle WA. 
+
+### File Description
+- 'Data' folder contains 3 csv files - 'listings.csv', 'calendar.csv', and 'reviews.csv'
+- Jupyter notebook 'Project_NoteBook.ipynb' includes the questiones identified from the data in 'Data' folder and the approaches to 
+  - analyse data
+  - identify impacting aspects, and 
+  - create pricing model based on relevant aspects
+
+### Result 
+
+The main findings of the code can be found at the post available here.
+
+### Licensing, Authors, Acknowledgements
+
+Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at udacity.com. Otherwise, feel free to use the code here as you would like!
