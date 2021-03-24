@@ -27,6 +27,14 @@ The project aims to predict renting prices of properties listed on Airbnb in Sea
   - 'calendar.csv': available dates of properties for listing - avaiable dates for listing
   - 'reviews.csv': tenant reviews
 
+### Library
+- numpy
+- pandas
+- matplotlib.pyplot
+- sklearn.linear_model
+- sklearn.model_selection
+- sklearn.metrics
+
 ### Result 
 
 The main findings of the code can be found at the notebook 'Project_NoteBook.ipynb'. 
