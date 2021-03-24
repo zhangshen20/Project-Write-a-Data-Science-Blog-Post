@@ -3,6 +3,11 @@
 
 This project aims to write a Data Science Blog. I used the datasets from Udacity online course. The dataset provides Airbnb's listings information in Seattle.
 
+### Medium Post Link
+
+How to Create a Pricing Model for Renting A Property via Airbnb
+https://zhangshen20.medium.com/how-to-create-a-pricing-model-for-renting-a-property-via-airbnb-c9662d7b9400
+
 ### Quick start
 - Download the latest release
 - Clone the repo: git clone https://github.com/zhangshen20/Project-Write-a-Data-Science-Blog-Post.git
