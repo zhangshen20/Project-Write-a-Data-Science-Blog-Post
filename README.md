@@ -29,7 +29,9 @@ The project aims to predict renting prices of properties listed on Airbnb in Sea
 
 ### Result 
 
-The main findings of the code can be found at the noteboo 'Project_NoteBook.ipynb'. Going forward, there will be more data and more time on research on listing information required.
+The main findings of the code can be found at the notebook 'Project_NoteBook.ipynb'. 
+
+Going forward, more data and more time on research on listing information are required for building a pricing model.
 
 ### Licensing, Authors, Acknowledgements
 
