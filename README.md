@@ -22,6 +22,11 @@ The project aims to predict renting prices of properties listed on Airbnb in Sea
   - identify impacting aspects, and 
   - create pricing model based on relevant aspects
 
+- 'data' folder
+  - 'listings.csv': listings information of properties - location, property type, size, amenities.
+  - 'calendar.csv': available dates of properties for listing - avaiable dates for listing
+  - 'reviews.csv': tenant reviews
+
 ### Result 
 
 The main findings of the code can be found at the post available here.
